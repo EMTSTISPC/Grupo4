@@ -1,4 +1,4 @@
-![Image text](https://github.com/EMTSTISPC/Grupo4/blob/main/Logo.JPG)
+![Image text](https://github.com/EMTSTISPC/Grupo4/blob/1ef0de1b33f0af2e8d371f2b9fe5b0307f323c6a/Logo.jpg)
 
 ### Práctica anual de la materia Electrónica Microcontrolada
 
