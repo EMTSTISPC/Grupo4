@@ -1,2 +1,2 @@
-![Image text](https://github.com/EMTSTISPC/Grupo4/blob/e3637443e4c04ead1ab9f3518b5c9d44351d9dec/PRACTICA1/P1portada.png)
+![Image text](https://github.com/EMTSTISPC/Grupo4/blob/f147a3c86eae74bdb4c06947f6729695806e549c/PRACTICA1/P1portada.png)
 ![Image text](https://github.com/EMTSTISPC/Grupo4/blob/e3637443e4c04ead1ab9f3518b5c9d44351d9dec/PRACTICA1/P1ejercicios.png)
