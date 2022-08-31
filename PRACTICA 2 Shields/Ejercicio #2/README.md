@@ -1,4 +1,4 @@
-Ejercicio # 2
+### Ejercicio #2
 
 	a) Que es el protocolo SPI y cuales son sus características.
 	b) Cuales son las ventajas y desventajas del protocolo SPI
