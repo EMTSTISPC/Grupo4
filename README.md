@@ -11,7 +11,6 @@
 
 -	Daniella Mazzini 
 -	Ivan Exequiel Gomez
--	Roxana Vicentelo
 -	Alfredo Palacios
 -	Matias Lujan
 -	Maximo Santillan
@@ -22,3 +21,4 @@
  * Carpeta PROYECTO 1: Datasheet de módulos ESP32 y ESP8266.  
  * Carpeta PROYECTO 2: Microcontroladores de 8 bits
  * Carpeta PRACTICA1: Prácticas de I/O en sistemas embebidos v1.0
+ * Carpeta PRACTICA 2 Shields: Shields v1.0
