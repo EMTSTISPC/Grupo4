@@ -14,6 +14,7 @@
 -	Alfredo Palacios
 -	Matias Lujan
 -	Maximo Santillan
+- Miguel Angel Segnana
 
 
 ## El repositorio :
