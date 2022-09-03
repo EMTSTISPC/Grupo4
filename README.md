@@ -14,7 +14,7 @@
 -	Alfredo Palacios
 -	Matias Lujan
 -	Maximo Santillan
-- Miguel Angel Segnana
+- [Miguel Angel Segnana](https://github.com/guelo2019 "guelo2019 - Github - TST")
 
 
 ## El repositorio :
