@@ -2,13 +2,11 @@
 
 ![Portada readme_G4_EM](https://user-images.githubusercontent.com/46485082/191259112-6b701e0a-4697-48e1-965d-e8f889b13e62.png)
 
-# Circuito electrico por cada rueda:
-
-![circuito](https://user-images.githubusercontent.com/46485082/191268091-e4dfd8d2-c17d-4d82-a064-8da1b4b0bc6a.png)
 
 # Circuito electrico:
 
-![circuito auto](https://user-images.githubusercontent.com/46485082/192008375-a8779192-5e30-4960-92e1-c20ff51f73e5.jpeg)
+![Circuito completo](https://user-images.githubusercontent.com/46485082/192115712-ad088439-bc24-41f6-bc74-03769bdbcb00.png)
+
 
 
 # Shield´s:
