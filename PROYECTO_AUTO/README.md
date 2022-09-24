@@ -1,7 +1,28 @@
-## Proyecto de Desarrollo
+## Desarrollo del Proyecto:
 
-### Auto ###
+![Portada readme_G4_EM](https://user-images.githubusercontent.com/46485082/191259112-6b701e0a-4697-48e1-965d-e8f889b13e62.png)
 
+
+# Circuito electrico:
+
+![Circuito completo](https://user-images.githubusercontent.com/46485082/192115712-ad088439-bc24-41f6-bc74-03769bdbcb00.png)
+
+
+
+# Shield´s:
+
+![Shields](https://user-images.githubusercontent.com/46485082/191279142-da28ec72-6b58-4acb-9c6c-6e38c9c9955d.png)
+
+# Diagrama en bloques:
+
+![Diagrama en boque](https://user-images.githubusercontent.com/46485082/191343062-f1b39ea6-0d72-4f75-bd6e-0bb85af9f656.png)
+
+# Gantt: Avance del proyecto.
+
+![Gantt_avance](https://user-images.githubusercontent.com/46485082/191315424-cac0285e-ca76-453e-8549-3b2163507b17.png)
+
+
+# Solicitud inicial del proyecto:
 
 En esta primera etapa, cada grupo debe crear en el monorepositorio una carpeta llamada como el proyecto {"Auto", "Impresora 3D", "Drone"}. La misma debe contener las siguientes subcarpetas.
 
