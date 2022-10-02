@@ -5,7 +5,7 @@
 
 # Circuito electrico:
 
-![Circuito completo](https://user-images.githubusercontent.com/46485082/192115712-ad088439-bc24-41f6-bc74-03769bdbcb00.png)
+![Circuito completo](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo4/blob/d2fd387787a631925b49e4b0d572687305cb0b31/PROYECTO_AUTO/D.Proyecto/HARD/circuito_con_mejoras.png)
 
 
 
