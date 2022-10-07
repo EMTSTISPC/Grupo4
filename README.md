@@ -9,18 +9,19 @@
 
 ## Integrantes:
 
--	Daniella Mazzini 
--	Ivan Exequiel Gomez
--	Alfredo Palacios
--	Matias Lujan
--	Maximo Santillan
+- [Daniella Mazzini](https://github.com/Daninja111 "Daninja11")
+- Ivan Exequiel Gomez
+- Alfredo Palacios
+- Matias Lujan
+- Maximo Santillan
 - [Miguel Angel Segnana](https://github.com/guelo2019 "guelo2019 - Github - TST")
-
 
 ## El repositorio :
 
- * Carpeta PROYECTO 1: Datasheet de módulos ESP32 y ESP8266.  
- * Carpeta PROYECTO 2: Microcontroladores de 8 bits
- * Carpeta PRACTICA1: Prácticas de I/O en sistemas embebidos v1.0
- * Carpeta PRACTICA 2 Shields: Shields v1.0
- * Carpeta PROYECTO_AUTO: Desarrollo proyecto 1: Auto
+- Carpeta PROYECTOS_IMPOSIBLE: Desarrollo proyecto 2 (Por definir)
+- Carpeta PROYECTOS_ANTERIORES:
+  - Carpeta PROYECTO 1: Datasheet de módulos ESP32 y ESP8266.
+  - Carpeta PROYECTO 2: Microcontroladores de 8 bits
+  - Carpeta PRACTICA1: Prácticas de I/O en sistemas embebidos v1.0
+  - Carpeta PRACTICA 2 Shields: Shields v1.0
+  - Carpeta PROYECTO_AUTO: Desarrollo proyecto 1: Auto
