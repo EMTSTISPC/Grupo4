@@ -1,4 +1,4 @@
-![Image text](https://github.com/EMTSTISPC/Grupo4/blob/1ef0de1b33f0af2e8d371f2b9fe5b0307f323c6a/Logo.jpg)
+![Image text](https://github.com/ISPC-TST-Electronica-Microcontrolada/Grupo4/blob/1c1aaf1a7506a51757a0d852363f9a9ca9a41711/Caratula_grupo.png)
 
 ### Práctica anual de la materia Electrónica Microcontrolada
 
