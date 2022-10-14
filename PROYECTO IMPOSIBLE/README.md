@@ -3,7 +3,7 @@
 
 ## Objetivo del Pryecto:
 
-La semaforizacion inteligente consiste en un sistema autonomo que evalua y maneja datos en tiempo real y todo el sistema se ajusta a las necesidades reales del tráfico en la ciudad a través de la sincronización automática.
+La semaforizacion inteligente consiste en un sistema autonomo que evalua y maneja datos en tiempo real. Todo el sistema se ajusta a las necesidades reales del tráfico en la ciudad a través de la sincronización automática.
 Los semaforos no estan aislados uno de otros, sino que permanentemente dialogan y ejecutan acciones para controlar el flujo del trafico en funcion de la demanda.
 Las ventajas de esos sitemas son:
 >  * Ahorro del tiempo promedio de traslados en la ciudad.
