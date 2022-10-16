@@ -9,5 +9,5 @@ Las ventajas de esos sitemas son:
 >  * Ahorro del tiempo promedio de traslados en la ciudad.
 >  * Ahorro energetico al reemplazar luminarias tradicionales incandescentes por tecnologia LED.
 >  * Mayor visibilidad de las señales, lo que asegura una mayor seguridad vial tanto de peatones, ciclistas y automovilistas.
->  * Implementacion de energia de respaldo por baterias de Litio, lo qual garantiza el funcionamiento de los puntos de semaforizacion ante interrupcion de energia. 
+>  * Implementacion de energia de respaldo por baterias de Litio, lo cual garantiza el funcionamiento de los puntos de semaforizacion ante interrupcion de energia. 
 >  * Reporte de cada sistema de semaforizacion a un control central para evaluar funcionamiento, recopilacion de datos, etc.
