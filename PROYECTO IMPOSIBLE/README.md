@@ -23,3 +23,11 @@ Las ventajas de esos sitemas son:
 ## Cronograma:
 
 ![Crono](https://user-images.githubusercontent.com/46485082/196264077-127816b3-8686-4662-8dea-9dc5ca1d87b1.png)
+
+
+## Prototipo:
+
+![Protoboard1](https://user-images.githubusercontent.com/46485082/197361489-8f219cb3-4660-489e-954b-f7a4093f1c47.png)
+![Protoboard2](https://user-images.githubusercontent.com/46485082/197361497-097ff33a-d8e2-4d96-9e42-f6630cfdc995.png)
+![Protoboard3](https://user-images.githubusercontent.com/46485082/197361507-a2f6e1c6-a281-4ddd-8ef0-ce16673a51e7.png)
+![Monitor Serie](https://user-images.githubusercontent.com/46485082/197361518-729d7b43-4769-44e7-8bdf-bd0a45229ab6.png)
