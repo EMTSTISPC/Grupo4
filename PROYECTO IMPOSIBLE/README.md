@@ -44,3 +44,17 @@ Las ventajas de esos sitemas son:
 ## Simulacion (Monitor Serie)
 
 ![Monitor Serie](https://user-images.githubusercontent.com/46485082/197361518-729d7b43-4769-44e7-8bdf-bd0a45229ab6.png)
+
+## Simulacion con Wokwi
+
+![Dia_Trafico](https://user-images.githubusercontent.com/46485082/198039569-21c5b6d5-bcd9-4059-b9c4-8858bd2e9aa8.png)
+
+
+![Dia_Sin_Trafico](https://user-images.githubusercontent.com/46485082/198039656-a95a41be-947a-481a-8f8a-b305a3eb0e8d.png)
+
+
+![Modo_Noche](https://user-images.githubusercontent.com/46485082/198039772-7ac8819a-7d54-478d-94da-be7d38ef6a31.png)
+
+
+
+
