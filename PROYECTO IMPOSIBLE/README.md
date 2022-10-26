@@ -41,17 +41,27 @@ Las ventajas de esos sitemas son:
 ![Protoboard2](https://user-images.githubusercontent.com/46485082/197361497-097ff33a-d8e2-4d96-9e42-f6630cfdc995.png)
 ![Protoboard3](https://user-images.githubusercontent.com/46485082/197361507-a2f6e1c6-a281-4ddd-8ef0-ce16673a51e7.png)
 
-## Simulacion (Monitor Serie)
+## Maqueta:
+
+![Maqueta1](https://user-images.githubusercontent.com/46485082/198050309-de6d52a9-bf31-4869-91f6-d9d8f196dfe8.png)
+![Maqueta2](https://user-images.githubusercontent.com/46485082/198050354-f7362e55-88da-4788-b78c-8a4bc8935531.png)
+
+
+## Simulacion (Monitor Serie IDE Arduino)
 
 ![Monitor Serie](https://user-images.githubusercontent.com/46485082/197361518-729d7b43-4769-44e7-8bdf-bd0a45229ab6.png)
 
-## Simulacion con Wokwi
+## Simulacion con Wokwi - [https://wokwi.com/projects/346526838034530899](https://wokwi.com/projects/346526838034530899 "SIS - Sistema Inteligente de Semaforizacion - Grupo 4 - EM") 
+
+## Modo "Dia con Trafico":
 
 ![Dia_Trafico](https://user-images.githubusercontent.com/46485082/198039569-21c5b6d5-bcd9-4059-b9c4-8858bd2e9aa8.png)
 
+## Modo "Dia sin Trafico":
 
 ![Dia_Sin_Trafico](https://user-images.githubusercontent.com/46485082/198039656-a95a41be-947a-481a-8f8a-b305a3eb0e8d.png)
 
+## Modo "Nocturno":
 
 ![Modo_Noche](https://user-images.githubusercontent.com/46485082/198039772-7ac8819a-7d54-478d-94da-be7d38ef6a31.png)
 
