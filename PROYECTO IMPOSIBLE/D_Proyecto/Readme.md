@@ -1,5 +1,5 @@
 
-## [Link al video del protecto](https://www.youtube.com/watch?v=KYBk6fskAbM "https://www.youtube.com/watch?v=KYBk6fskAbM")
+## [Link al video del proyecto](https://www.youtube.com/watch?v=KYBk6fskAbM "https://www.youtube.com/watch?v=KYBk6fskAbM")
 
 ## Simulacion: [Sistema de Semaforizacion Inteligente](https://wokwi.com/projects/346526838034530899)
 
